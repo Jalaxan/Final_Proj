@@ -1,0 +1,14 @@
+.layout {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .layout h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .layout p {
+    font-size: 18px;
+  }
+  
